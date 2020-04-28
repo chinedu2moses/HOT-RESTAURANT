@@ -25,6 +25,7 @@ NOTE: started with app.listen(3000) from express documentation but changed to va
 > jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, 
 > event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers
 > AJAX is a technique for accessing web servers from a web page. It stands for Asynchronous JavaScript And XML and it is not a programming language.
+![](https://github.com/chinedu2moses/HOT-RESTAURANT/blob/master/asset/im1.png?raw=true)
 
 ## Authors
 Chinedu Moses
