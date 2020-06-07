@@ -27,7 +27,7 @@ NOTE: started with app.listen(3000) from express documentation but changed to va
 > AJAX is a technique for accessing web servers from a web page. It stands for Asynchronous JavaScript And XML and it is not a programming language.
 ![](https://github.com/chinedu2moses/HOT-RESTAURANT/blob/master/asset/im1.png?raw=true)
 
-## Authors
+## Author
 Chinedu Moses
 
 ## Acknowledgments
